@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-03T13:34:11 WAT" name="Default suite" finished-at="2024-05-03T13:35:01 WAT" duration-ms="49920">
+    <groups>
+    </groups>
+    <test started-at="2024-05-03T13:34:11 WAT" name="Default test" finished-at="2024-05-03T13:35:01 WAT" duration-ms="49920">
+      <class name="TestDBLoginClientAffaireDevis">
+        <test-method is-config="true" signature="Configure()[pri:0, instance:TestDBLoginClientAffaireDevis@246f8b8b]" started-at="2024-05-03T13:34:11 WAT" name="Configure" finished-at="2024-05-03T13:34:14 WAT" duration-ms="2407" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Configure -->
+        <test-method signature="testDatabaseConnectionAndLogin()[pri:1, instance:TestDBLoginClientAffaireDevis@246f8b8b]" started-at="2024-05-03T13:34:14 WAT" name="testDatabaseConnectionAndLogin" finished-at="2024-05-03T13:34:27 WAT" duration-ms="12683" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDatabaseConnectionAndLogin -->
+        <test-method signature="TestNavigationMenu()[pri:2, instance:TestDBLoginClientAffaireDevis@246f8b8b]" started-at="2024-05-03T13:34:27 WAT" name="TestNavigationMenu" finished-at="2024-05-03T13:34:28 WAT" duration-ms="1073" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestNavigationMenu -->
+        <test-method signature="TestCreateClient()[pri:3, instance:TestDBLoginClientAffaireDevis@246f8b8b]" started-at="2024-05-03T13:34:28 WAT" name="TestCreateClient" finished-at="2024-05-03T13:34:33 WAT" duration-ms="5745" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCreateClient -->
+        <test-method signature="TestRechercheclient()[pri:4, instance:TestDBLoginClientAffaireDevis@246f8b8b]" started-at="2024-05-03T13:34:33 WAT" name="TestRechercheclient" finished-at="2024-05-03T13:34:37 WAT" duration-ms="3461" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestRechercheclient -->
+        <test-method signature="TestCommercial()[pri:5, instance:TestDBLoginClientAffaireDevis@246f8b8b]" started-at="2024-05-03T13:34:37 WAT" name="TestCommercial" finished-at="2024-05-03T13:34:49 WAT" duration-ms="11891" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCommercial -->
+        <test-method signature="TestDevis()[pri:6, instance:TestDBLoginClientAffaireDevis@246f8b8b]" started-at="2024-05-03T13:34:49 WAT" name="TestDevis" finished-at="2024-05-03T13:35:01 WAT" duration-ms="12498" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestDevis -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestDBLoginClientAffaireDevis@246f8b8b]" started-at="2024-05-03T13:35:01 WAT" name="tearDown" finished-at="2024-05-03T13:35:01 WAT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestDBLoginClientAffaireDevis -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
